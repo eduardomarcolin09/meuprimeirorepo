@@ -1,4 +1,3 @@
 <?php 
 
-echo "oi";
-echo "tchau";
+echo "olá";
